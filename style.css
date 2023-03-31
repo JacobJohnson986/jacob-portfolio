@@ -29,6 +29,7 @@ p, ul, ol, li {
 }
 
 .imageContainer {
+  background-color: #FFFFFF;
   width: 800px;
   margin: 20px auto 0 auto;
   padding: 20px;
