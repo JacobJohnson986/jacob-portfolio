@@ -21,12 +21,15 @@ p, ul, ol, li {
   text-align: left;
 }
 
-header.Container {
+.headerContainer {
   background-color: #000000;
+  width: 600px;
+  margin: 20px auto 0 auto;
+  padding: 20px;
 }
 
 .pageContainer {
-  width: 940px;
+  width: 600px;
   margin: 20px auto 0 auto;
   padding: 20px;
   background-color: #FFFFFF;
