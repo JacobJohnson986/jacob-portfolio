@@ -3,7 +3,7 @@
 h {
   font-family: 'Lato';
   color: #000000;
-  text-align: center;
+  text-align: left;
   padding-bottom: 4px;
   border-bottom: 3px solid #3f4c66;
   margin: 4px;
@@ -12,7 +12,7 @@ h {
 p, ul, ol, li {
   font-family: 'Lato';
   color: #000000;
-  text-align: center;
+  text-align: left;
 }
 
 header {
