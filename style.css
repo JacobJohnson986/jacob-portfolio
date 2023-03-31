@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
 
-h {
+h1, h2 {
   font-family: 'Lato', sans-serif;
   color: #000000;
   text-align: left;
@@ -9,10 +9,20 @@ h {
   margin: 4px;
 }
 
+h3 {
+  font-family:'Lato', sans-serif;
+  color: #FFFFFF;
+  text-align: left;
+}
+
 p, ul, ol, li {
   font-family: 'Lato', sans-serif;
   color: #000000;
   text-align: left;
+}
+
+header {
+  background-color: #000000;
 }
 
 main {
