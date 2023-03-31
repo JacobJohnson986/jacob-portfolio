@@ -73,3 +73,10 @@ a:link    { color: #000000; }
 a:visited { color: #FF0000; }
 a:hover   { color: #0000FF; }
 a:active  { color: #00008B; }
+
+hr {
+  width: 1000px;
+  color: #FF0000;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
