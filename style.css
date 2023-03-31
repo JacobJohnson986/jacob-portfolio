@@ -40,14 +40,14 @@ p {
   font-family: 'Lato', sans-serif;
   color: #000000;
   text-align: left;
-  margin-left: 200px;
+  margin-left: 180px;
 }
 
 ul, ol, li {
   font-family: 'Lato', sans-serif;
   color: #000000;
   text-align: left;
-  margin-left: 60px;
+  margin-left: 120px;
 }
 
 .headerContainer {
@@ -55,7 +55,7 @@ ul, ol, li {
   height: 10px;
   width: 100%;
   margin: 20px auto 0 auto;
-  padding: 10px;
+  padding: 20px;
 }
 
 .imageContainer {
