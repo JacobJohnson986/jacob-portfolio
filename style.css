@@ -25,14 +25,14 @@ p, ul, ol, li {
 
 .headerContainer {
   background-color: #000000;
-  width: 800px;
+  width: 100%;
   margin: 20px auto 0 auto;
   padding: 20px;
 }
 
 .imageContainer {
   background-color: #FFFFFF;
-  width: 800px;
+  width: 1200px;
   margin: 20px auto 0 auto;
   padding: 20px;
   text-align: center;
@@ -40,7 +40,7 @@ p, ul, ol, li {
 
 .footerContainer {
   background-color: #6a6a6a;
-  width: 800px;
+  width: 100%;
   margin: 8px auto 0 auto;
   padding: 20px;
 }
