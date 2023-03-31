@@ -52,6 +52,7 @@ ul, ol, li {
 
 .headerContainer {
   background-color: #000000;
+  height: 10px;
   width: 100%;
   margin: 20px auto 0 auto;
   padding: 10px;
@@ -59,8 +60,6 @@ ul, ol, li {
 
 .imageContainer {
   background-color: #FFFFFF;
-  height: 400px;
-  width: 600px;
   margin-left: 200px;
   padding: 50px;
 }
