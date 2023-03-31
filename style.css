@@ -21,10 +21,13 @@ p, ul, ol, li {
   text-align: left;
 }
 
-header {
+header.Container {
   background-color: #000000;
 }
 
-main {
+.pageContainer {
+  width: 940px;
+  margin: 20px auto 0 auto;
+  padding: 20px;
   background-color: #d3d3d3;
 }
