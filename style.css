@@ -15,10 +15,6 @@ p, ul, ol, li {
   text-align: left;
 }
 
-header {
-  color: #7f7f7f;
-}
-
 main {
-  color: #d3d3d3;
+  background-color: #d3d3d3;
 }
