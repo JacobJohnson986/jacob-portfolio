@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
 
 h, p, ul, ol, li {
   font-family: 'Roboto', sans-serif;
@@ -10,6 +10,10 @@ h, p, ul, ol, li {
   margin: 4px;
 }
 
-.background {
+header {
+  color: #7f7f7f;
+}
+
+main {
   color: #d3d3d3;
 }
