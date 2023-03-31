@@ -28,13 +28,6 @@ p, ul, ol, li {
   padding: 20px;
 }
 
-.pageContainer {
-  width: 800px;
-  margin: 20px auto 0 auto;
-  padding: 20px;
-  background-color: #FFFFFF;
-}
-
 .footerContainer {
   background-color: #6a6a6a;
   width: 800px;
