@@ -58,3 +58,8 @@ p, ul, ol, li {
   margin-left: 200px;
   padding: 60px;
 }
+
+a:link    { color: #000000; }
+a:visited { color: #FF0000; }
+a:hover   { color: #0000FF; }
+a:active  { color: #00008B; }
