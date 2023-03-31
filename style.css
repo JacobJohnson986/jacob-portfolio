@@ -1,12 +1,15 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-</style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-h {
+h, p, ul, ol, li {
   font-family: 'Roboto', sans-serif;
   font-size: 52px;
-  color: #3f4c66;
+  color: #000000;
   text-align: center;
   padding-bottom: 4px;
   border-bottom: 3px solid #3f4c66;
+  margin: 4px;
+}
+
+.background {
+  color: #d3d3d3;
 }
