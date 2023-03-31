@@ -5,7 +5,7 @@ h1, h2 {
   color: #FF0000;
   text-align: left;
   padding-bottom: 8px;
-  margin: 200px;
+  margin-left: 200px;
   padding: 20px;
 }
 
@@ -13,7 +13,7 @@ h3 {
   font-family:'Lato', sans-serif;
   color: #FFFFFF;
   text-align: left;
-  margin: 200px;
+  margin-left: 200px;
   padding: 20px;
 }
 
@@ -21,7 +21,7 @@ h6 {
   font-family:'Lato', sans-serif;
   color: #000000;
   text-align: left;
-  margin: 200px;
+  margin-left: 200px;
   padding: 20px;
 }
 
@@ -29,7 +29,7 @@ p, ul, ol, li {
   font-family: 'Lato', sans-serif;
   color: #000000;
   text-align: left;
-  margin: 200px;
+  margin-left: 200px;
 }
 
 .headerContainer {
@@ -42,6 +42,6 @@ p, ul, ol, li {
 .imageContainer {
   background-color: #FFFFFF;
   width: 1200px;
-  margin: 20px auto 0 auto;
+  margin-left: 200px;
   padding: 60px;
 }
