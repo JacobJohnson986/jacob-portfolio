@@ -6,7 +6,7 @@ h1 {
   color: #FF0000;
   text-align: left;
   padding-bottom: 8px;
-  margin-left: 190px;
+  margin-left: 150px;
 }
 
 h2 {
@@ -15,21 +15,21 @@ h2 {
   color: #FF0000;
   text-align: left;
   padding-bottom: 2px;
-  margin-left: 190px;
+  margin-left: 150px;
 }
 
 h3 {
   font-family:'Lato', sans-serif;
   color: #FFFFFF;
   text-align: left;
-  margin-left: 200px;
+  margin-left: 170px;
 }
 
 h6 {
   font-family:'Lato', sans-serif;
   color: #FFFFFF;
   text-align: left;
-  margin-left: 190px;
+  margin-left: 150px;
   padding: 20px;
 }
 
@@ -37,15 +37,15 @@ p {
   font-family: 'Lato', sans-serif;
   color: #000000;
   text-align: left;
-  margin-left: 200px;
-  padding-right: 200px;
+  margin-left: 150px;
+  padding-right: 150px;
  }
 
 ul, ol, li {
   font-family: 'Lato', sans-serif;
   color: #000000;
   text-align: left;
-  margin-left: 100px;
+  margin-left: 80px;
 }
 
 .headerContainer {
@@ -58,7 +58,7 @@ ul, ol, li {
 
 .imageContainer {
   background-color: #FFFFFF;
-  margin-left: 200px;
+  margin-left: 150px;
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -79,8 +79,8 @@ hr {
   background-color: #FF0000;
   margin-top: 30px;
   margin-bottom: 10px;
-  margin-right: 1200px;
-  margin-left: 200px;
+  margin-right: 145px;
+  margin-left: 142px;
 }
 
 main {
