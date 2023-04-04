@@ -87,3 +87,14 @@ body {
   margin-left: 10px;
   margin-right: 10px;
 }
+
+div {
+  text-align: justify;
+  font-size: 4.3vw;
+}
+
+div:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
