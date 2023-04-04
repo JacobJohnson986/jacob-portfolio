@@ -34,11 +34,11 @@ h6 {
 }
 
 p {
-  line-height: 20px;
   font-family: 'Lato', sans-serif;
   color: #000000;
   text-align: left;
   margin-left: 150px;
+  padding-right: 150px;
  }
 
 ul, ol, li {
@@ -48,7 +48,7 @@ ul, ol, li {
   margin-left: 80px;
 }
 
-.topContainer {
+.headerContainer {
   background-color: #000000;
   height: 60px;
   min-width: 1000px;
@@ -83,19 +83,12 @@ hr {
   margin-left: 142px;
 }
 
-div {
-  text-align: justify;
-  font-size: 4.3vw;
+main {
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
-div:after {
-  content: "";
-  display: inline-block;
-  width: 100%;
-}
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+body {
+  margin-left: 10px;
+  margin-right: 10px;
 }
