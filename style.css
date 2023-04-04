@@ -34,11 +34,11 @@ h6 {
 }
 
 p {
+  line-height: 20px;
   font-family: 'Lato', sans-serif;
   color: #000000;
   text-align: left;
   margin-left: 150px;
-  padding-right: 150px;
  }
 
 ul, ol, li {
@@ -83,11 +83,6 @@ hr {
   margin-left: 142px;
 }
 
-body {
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
 div {
   text-align: justify;
   font-size: 4.3vw;
@@ -97,4 +92,10 @@ div:after {
   content: "";
   display: inline-block;
   width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
